@@ -35,6 +35,10 @@ Terraform-managed AWS infrastructure
 Note: The current CI workflow validates and scans configuration.
 It does not deploy infrastructure from GitHub Actions.
 
+## Architecture Diagram
+
+See [docs/architecture.md](docs/architecture.md) for the visual architecture and security controls.
+
 ## Technology Stack
 
 - AWS S3
